@@ -59,4 +59,5 @@ Input files from INSPIRE v1.3:
 ## Authors
 **Chanseo Lee** et al., Yale School of Medicine.
 Based on the manuscript: *Learning algorithms harness dynamic intraoperative signals to predict postoperative adverse outcomes in cardiac procedures under anesthesia.*
+
 Preliminary work is published and accepted for presentation at Society of Thoracic Surgery Annual Meeting 2026 in New Orleans, LA
